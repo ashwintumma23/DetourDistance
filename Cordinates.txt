@@ -1,0 +1,11 @@
+Point A: Empire State Building, 34th Street
+40.74877690495834, -73.98543119430542
+
+Point B: Central Park, 111th Street
+40.798314488417, -73.95227909088135
+
+Point C: Times Square, 42nd Street
+40.75896043391528, -73.98468017578125
+
+Point D: Rockeffeler Center, 49th Street
+40.758245280893014, -73.97802829743432
