@@ -1,7 +1,20 @@
 # Detour Distance
 [![Code Climate](https://codeclimate.com/repos/56096f1669568012ce0004dc/badges/1110086f7d7debdb2c12/gpa.svg)](https://codeclimate.com/repos/56096f1669568012ce0004dc/feed)
 
-Calculate Detour distance
+This repository contains the solution for the calculate Detour distance problem.
+
+### Example
+
+The example which I have taken is of New York City. As shown in the map below: 
+* Point A - Empire State Building
+* Point B - Central Park North
+* Point C - Times Square
+* Point D - Rockeffeler Center
+
+![New York City map](https://github.com/ashwintumma23/DetourDistance/blob/master/images/NewYorkCity.png "New York City Map")
+
+
+In this case, Driver 1 is travelling from Point A to Point B, and Driver 2 is travelling from Point C to Point D. As seen, driver 1 can pick up and drop off the second driver, since the detour distance for him is less.
 
 ```
 Point A: Empire State Building, 34th Street
@@ -31,3 +44,6 @@ Detour Distance: 0.298216148068 miles
 Path: A -> C -> D -> B
 
 ```
+
+### 
+
